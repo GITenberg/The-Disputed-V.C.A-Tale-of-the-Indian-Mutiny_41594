@@ -1,0 +1,33 @@
+_repo: The-Disputed-V.C.A-Tale-of-the-Indian-Mutiny_41594
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: archival
+  image_path: 41594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibbon, Frederick P.
+    alias: Gibbon, F. P. (Frederick P.)
+    gutenberg_agent_id: '41250'
+    url: http://www.gutenberg.org/2009/agents/41250
+description: ''
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Disputed V.C.: A Tale of the Indian Mutiny'
+url: http://www.gutenberg.org/ebooks/41594
